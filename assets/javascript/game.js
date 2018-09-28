@@ -1,4 +1,4 @@
-var randomNumber = (Math.floor(Math.random() * 62)+1);
+var randomNumber = (Math.floor(Math.random() * 51)+1);
 var smallNum =  (Math.floor(Math.random() * 12)+1);
 var smallNum1 = (Math.floor(Math.random() * 12)+1);
 var smallNum2 = (Math.floor(Math.random() * 12)+1);
